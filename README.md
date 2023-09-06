@@ -17,6 +17,8 @@
 > Best of luck, </br>
 > Social Toilet Map Team
 
+![](https://github.com/HAPPY-3-FRIENDS/social-toilet-map/blob/main/img/background-desktop.png)
+
 ## Table of Contents
 - [Description](#description)
 - [Preview Screenshot](#preview-screenshot)
