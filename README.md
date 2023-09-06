@@ -135,4 +135,6 @@
 ## License & Copyright
 ***All ideas, content, images, and related documents are owned by the Social Toilet Map Team and Reva Enterprise Solutions Development Joint Stock Company,*** except for images and reference information from other sources, which will be fully cited and credited.
 
-&copy; 2023 Social-Toilet-Map-Team Licensed under the [GPL-3.0 LICENSE](https://github.com/HAPPY-3-FRIENDS/social-toilet-map/blob/main/LICENSE).
+***This presentation is protected by Vietnam and International Copyright laws. Reproduction, distribution, display and use of the presentation without written permission of the owner is prohibited.***
+
+&copy; 2023 Social-Toilet-Map-Team
