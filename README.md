@@ -2,8 +2,6 @@
 
 :wave: Welcome to our Graduation Capstone Project - Social Toilet Map :wave:
 
-:point_right: [Live Demo Here](https://youtu.be/A09Ge1tkx1A?si=Z0oWWuk3udIx7zgV) :point_left:
-
 > Perhaps there are plenty of shortcomings, perhaps numerous challenges, conflicts, but please allow us to encapsulate this journey in three words: effort, gratitude and pride.
 > 
 > First and foremost, we would like to express our gratitude to Mr. Kieu Trong Khanh, our cherished (and occasionally terrifying) supervisor, for his invaluable advice, knowledge and motivation. His dedication is one of the most important sources of inspiration for our team as we work to finish the project.
@@ -38,6 +36,8 @@
 ## Functional requirements
 
 ## Useful Resources
+
+:point_right: [Live Demo Here](https://youtu.be/A09Ge1tkx1A?si=Z0oWWuk3udIx7zgV) :point_left:
 
 ## Contributors
 **1. Supervisor:**
