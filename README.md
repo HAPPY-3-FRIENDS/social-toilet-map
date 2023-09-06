@@ -19,7 +19,7 @@
 
 ## Table of Contents
 - [Description](#description)
-- [Preview Screenshot](#preview-screenshot)
+- [Live Demo](#live-demo)
 - [Technology](#technology)
 - [Functional requirements](#functional-requirements)
 - [Useful Resources](#useful-resources)
@@ -28,16 +28,18 @@
 - [License & Copyright](#license--copyright)
 
 ## Description
+&nbsp; &nbsp; &nbsp; The application is developed based on the requirements requested to order from ***Reva Enterprise Solutions Development Joint Stock Company*** to meet the requirements of the District 1 Public Services Company Limited in District 1, Ho Chi Minh City with the orientation of taking advantage of public toilets currently available in the area, avoiding waste in investment and use.
 
-## Preview Screenshot
+&nbsp; &nbsp; &nbsp; In addition, the project is oriented to build a way for people to access and use public toilets in the most convenient way in the digital age and the development of smart mobile devices. Moreover, the project is also oriented on combining social resources with the state's investment in infrastructure in expanding public toilets, aiming to bring benefits to the people and, a clean environment will - be friendly and support the ability to introduce and promote the brand of investment units in the role of contributing to the community.
+
+## Live Demo
+:point_right: [Live Demo Here](https://youtu.be/A09Ge1tkx1A?si=Z0oWWuk3udIx7zgV) :point_left:
   
 ## Technology
 
 ## Functional requirements
 
 ## Useful Resources
-
-:point_right: [Live Demo Here](https://youtu.be/A09Ge1tkx1A?si=Z0oWWuk3udIx7zgV) :point_left:
 
 ## Contributors
 **1. Supervisor:**
