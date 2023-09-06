@@ -32,6 +32,10 @@
 
 &nbsp; &nbsp; &nbsp; In addition, the project is oriented to build a way for people to access and use public toilets in the most convenient way in the digital age and the development of smart mobile devices. Moreover, the project is also oriented on combining social resources with the state's investment in infrastructure in expanding public toilets, aiming to bring benefits to the people and, a clean environment will - be friendly and support the ability to introduce and promote the brand of investment units in the role of contributing to the community.
 
+&nbsp; &nbsp; &nbsp; The current solution and orientation of the system based on the policy of the government is Orientation for socialization in combination with the government building a network of public toilets that connect to each other. In cooperation with coffee and shops, mobilizing more places such as schools, offices, and agencies of the political system to strengthen the network of toilets to meet actual needs. That led to the need to build an application that provides public toilets with features such as displaying toilets around the current area, making directions, and making payments, ... and will be deployed in Ho Chi Minh City.
+
+&nbsp; &nbsp; &nbsp; The scope of this project targets a hosting unit for companies involved in providing and managing toilets to serve the people. The main users of this system are the hosting (REVA Company), the participating companies - toilet units (manager), the employees of the companies at the restroom (staff), the toilet users (user),... The system was built with the vision of providing mobile application users with the ability to search for restrooms near them along with a number of amenities surrounding the restroom and its equipment and service capabilities of the restrooms. In addition, the application provides functions so that companies can manage their restrooms. A mobile application for staff to use at the restroom to best support people from fee collection support, and notifications about the restroom's operability and service capabilities. The system must ensure statistics and suggestions for hosts and companies about the need to invest in toilets to best serve the people.
+
 ## Live Demo
 :point_right: [Live Demo Here](https://youtu.be/A09Ge1tkx1A?si=Z0oWWuk3udIx7zgV) :point_left:
   
@@ -73,6 +77,32 @@
   - GitHub (Source Codes), SourceTree (Source Codes), Google Drive (Documents)
 
 ## Functional requirements
+**1. User (Toilet user):**
+- [ ] View the public toilets in the system, view the toilets near the current location, and search for a toilet.
+- [ ] View the information of a toilet: service, address, facilities, images,...
+- [ ] Get the direction from the current location to a toilet.
+- [ ] Support conveniently users to pay for a toilet service.
+- [ ] ...
+
+**2. Staff:**
+- [ ] Check-in for user/walk-in guests. 
+- [ ] Top up for user.
+- [ ] ...
+
+**3. Manager:**
+- [ ] Manage toilet information. 
+- [ ] View the statistics of users using toilet services.
+- [ ] ...
+
+**4. Admin:**
+- [ ] Configure ... 
+- [ ] Manager companies, toilet units,...
+- [ ] ...
+
+**5. System Handler:**
+- [ ] Provide nearby toilets for users. 
+- [ ] Direct to a toilet.
+- [ ] ...
 
 ## Useful Resources
 
