@@ -117,6 +117,8 @@
 3| -| [Document Folder](https://github.com/HAPPY-3-FRIENDS/social-toilet-map/blob/main/Social%20Toilet%20Map%20-%20Final%20Project%20Report.pdf) | Final Document
 4| -| [Test Report](https://github.com/HAPPY-3-FRIENDS/social-toilet-map/blob/main/Social%20Toilet%20Map%20-%20Test%20Report.xlsx) | Test Report
 5| -| [Slide](https://github.com/HAPPY-3-FRIENDS/social-toilet-map/blob/main/Final%20Presentation%20Slide.pdf) | Final Presentation Slide
+6| -| [Diagram Image](https://github.com/HAPPY-3-FRIENDS/social-toilet-map/tree/main/Diagram) | Diagram Image
+7| -| [Team Image](https://github.com/HAPPY-3-FRIENDS/social-toilet-map/tree/main/img) | Team Image
 
 ## Contributors
 **1. Supervisor:**
