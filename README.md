@@ -105,6 +105,18 @@
 - [ ] ...
 
 ## Useful Resources
+#| #| Name | Description
+-| -| ---- | -----------
+1| -| Main Project Folder | Main source code
+-| 1.1| [Front-end](https://github.com/HAPPY-3-FRIENDS/toilet-map-front-end) | Front-end source code (Private)
+-| 1.2| [Back-end](https://github.com/HAPPY-3-FRIENDS/toilet-map-back-end) | Back-end source code (Private)
+-| 1.3| [Mobile-User](https://github.com/HAPPY-3-FRIENDS/toilet-map-mobile-user) | Mobile-User source code (Private)
+-| 1.4| [Mobile-Staff](https://github.com/HAPPY-3-FRIENDS/toilet-map-mobile-staff) | Mobile-Staff source code (Private)
+2| -| Database | Database Information
+-| 2.1| [Database Entity Relationship Diagram](https://raw.githubusercontent.com/HAPPY-3-FRIENDS/social-toilet-map/main/Diagram/Entity%20Relationship%20Diagram/Entity%20Relationship%20Diagram.png) | Database ERD
+3| -| [Document Folder](https://github.com/HAPPY-3-FRIENDS/social-toilet-map/blob/main/Social%20Toilet%20Map%20-%20Final%20Project%20Report.pdf) | Final Document
+4| -| [Test Report](https://github.com/HAPPY-3-FRIENDS/social-toilet-map/blob/main/Social%20Toilet%20Map%20-%20Test%20Report.xlsx) | Test Report
+5| -| [Slide](https://github.com/HAPPY-3-FRIENDS/social-toilet-map/blob/main/Final%20Presentation%20Slide.pdf) | Final Presentation Slide
 
 ## Contributors
 **1. Supervisor:**
@@ -121,4 +133,6 @@
 - [Capstone: Social Toilet Map (Hệ thống Nhà vệ sinh Cộng đồng) - http://www.kieutrongkhanh.net/](http://www.kieutrongkhanh.net/2023/08/capstone-social-toilet-map-he-thong-nha.html)
 
 ## License & Copyright
+***All ideas, content, images, and related documents are owned by the Social Toilet Map Team and Reva Enterprise Solutions Development Joint Stock Company,*** except for images and reference information from other sources, which will be fully cited and credited.
+
 &copy; 2023 Social-Toilet-Map-Team Licensed under the [GPL-3.0 LICENSE](https://github.com/HAPPY-3-FRIENDS/social-toilet-map/blob/main/LICENSE).
