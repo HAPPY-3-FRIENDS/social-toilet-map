@@ -36,6 +36,41 @@
 :point_right: [Live Demo Here](https://youtu.be/A09Ge1tkx1A?si=Z0oWWuk3udIx7zgV) :point_left:
   
 ## Technology
+**1. Frontend**
+  - React JS
+  - SCSS
+  - Redux Tool Kit
+
+**2. Backend**
+  - Java Language
+  - Spring Boot Framework
+
+**3. Mobile**
+  - Flutter
+
+**4. Database**
+  - Microsoft SQL Server - a relational model database server produced by Microsoft
+
+**5. Other Technologies**
+- Firebase Storage
+- Firebase Authentication
+- Web socket
+- Goong Map | Mapbox
+- Payment service - VNPAY
+- Azure App Service
+- Azure SQL Database
+- Ant Design 
+
+**6. Tool**
+  - Visual Studio Code
+  - Android Studio
+  - IntelliJ 
+  - Figma
+  - Swagger API Documentation
+  - Draw.io & StarUML for ERD Diagram
+  - Microsoft SQL Server Management Studio 18 | DataGrip
+  - Microsoft Office, Google Docs/Sheets
+  - GitHub (Source Codes), SourceTree (Source Codes), Google Drive (Documents)
 
 ## Functional requirements
 
@@ -53,6 +88,7 @@
 - [Tran Kim Hieu](https://github.com/hieutk-se) - SE140907 - **Back-end Developer | Database Designer**
 
 ## References
+- [Capstone: Social Toilet Map (Hệ thống Nhà vệ sinh Cộng đồng) - http://www.kieutrongkhanh.net/](http://www.kieutrongkhanh.net/2023/08/capstone-social-toilet-map-he-thong-nha.html)
 
 ## License & Copyright
 &copy; 2023 Social-Toilet-Map-Team Licensed under the [GPL-3.0 LICENSE](https://github.com/HAPPY-3-FRIENDS/social-toilet-map/blob/main/LICENSE).
