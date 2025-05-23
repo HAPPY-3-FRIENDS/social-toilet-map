@@ -108,10 +108,10 @@
 #| #| Name | Description
 -| -| ---- | -----------
 1| -| Main Project Folder | Main source code
--| 1.1| [Front-end](https://github.com/HAPPY-3-FRIENDS/toilet-map-front-end) | Front-end source code (Private)
--| 1.2| [Back-end](https://github.com/HAPPY-3-FRIENDS/toilet-map-back-end) | Back-end source code (Private)
--| 1.3| [Mobile-User](https://github.com/HAPPY-3-FRIENDS/toilet-map-mobile-user) | Mobile-User source code (Private)
--| 1.4| [Mobile-Staff](https://github.com/HAPPY-3-FRIENDS/toilet-map-mobile-staff) | Mobile-Staff source code (Private)
+-| 1.1| [Front-end](https://github.com/HAPPY-3-FRIENDS/toilet-map-front-end) | Front-end source code 
+-| 1.2| [Back-end](https://github.com/HAPPY-3-FRIENDS/toilet-map-back-end) | Back-end source code 
+-| 1.3| [Mobile-User](https://github.com/HAPPY-3-FRIENDS/toilet-map-mobile-user) | Mobile-User source code 
+-| 1.4| [Mobile-Staff](https://github.com/HAPPY-3-FRIENDS/toilet-map-mobile-staff) | Mobile-Staff source code 
 2| -| Database | Database Information
 -| 2.1| [Database Entity Relationship Diagram](https://raw.githubusercontent.com/HAPPY-3-FRIENDS/social-toilet-map/main/Diagram/Entity%20Relationship%20Diagram/Entity%20Relationship%20Diagram.png) | Database ERD
 3| -| [Document Folder](https://github.com/HAPPY-3-FRIENDS/social-toilet-map/blob/main/Social%20Toilet%20Map%20-%20Final%20Project%20Report.pdf) | Final Document
